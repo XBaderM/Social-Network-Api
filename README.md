@@ -23,8 +23,8 @@ a social-networking api that you can create thoughts and perform crud operations
 
 ## Walkthrough
 
-[WalkThrough Video](https://watch.screencastify.com/v/uihVY7cRGf5wkL8omJY6)
-[walkthrough video](https://watch.screencastify.com/v/sbxwg5GcXpOzZlgTg4uS)
+[WalkThrough Part1](https://watch.screencastify.com/v/uihVY7cRGf5wkL8omJY6)
+[walkthrough part2](https://watch.screencastify.com/v/sbxwg5GcXpOzZlgTg4uS)
 
 ## Technologies
 
